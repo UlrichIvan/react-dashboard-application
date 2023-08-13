@@ -8,7 +8,7 @@ export const FAKE_URL_DATA = "http://localhost:4000";
 export const QUERY_ORDERS_BEING_PROCESSED = "en-cours-de-traintements";
 export const QUERY_ORDERS_DELIVERY = "Livrées";
 export const QUERY_ORDERS_CLIENT_CANNOT_CALL = "clients-injoignables";
-export const QUERY_ORDERS_BEING_DELIVERY = "en-cours-d’expédition";
+export const QUERY_ORDERS_BEING_DELIVERY = "en-cours-d'expédition";
 
 export const VALID_PARAMS = [
   QUERY_ORDERS_BEING_PROCESSED,

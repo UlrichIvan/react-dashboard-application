@@ -18,4 +18,4 @@
 
 # use application
 
-Go to http://localhost:3000/ on your navigator to use application.
+Go to http://localhost:3000/ on your navigator to use the application.
