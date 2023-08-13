@@ -1,0 +1,35 @@
+* {
+    user-select: none;
+}
+
+.bugger:hover {
+    cursor: pointer;
+}
+
+body {
+    height: 100vh !important;
+    overflow: hidden;
+}
+
+li {
+    list-style: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.links {
+    background-color: #0082c3;
+    height: 48px;
+    max-height: 48px;
+}
+
+.header a:hover {
+    text-decoration: none;
+}
+
+.text-white-50 {
+    color: rgba(255, 255, 255, 0.607);
+}
+
+.text-white-50:hover {
+    color: rgb(255, 255, 255) !important;
+}

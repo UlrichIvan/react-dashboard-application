@@ -1,0 +1,10 @@
+.loader {
+    background-image: url(../../images/svg/loading.svg);
+    background-size: 5%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.wrapper-table caption {
+    caption-side: top !important;
+}
