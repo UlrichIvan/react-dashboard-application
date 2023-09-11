@@ -4,8 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-# fake data
-data.json
+
 Fake users
 # testing
 /coverage
