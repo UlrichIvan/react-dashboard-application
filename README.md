@@ -1,4 +1,14 @@
-# Proposal Dashboard Application For DECATHLON Enterprise made with reactjs
+# Proposal Dashboard Application For DECATHLON Enterprise
+
+## Requirements:
+
+1. NodeJs available in your computer
+
+2. Vscode or other IDE
+
+3. package manager npm or yarn or pnpm
+
+- **Tip** : all command execute below is the same with npm or yarn or pnpm
 
 ## Avaible Actions:
 
@@ -8,14 +18,17 @@
 
 # Install dependencies
 
-### 1. `npm install`
+```cmd
+pnpm install
+```
 
-# Run application
+### Run application
 
-### 1. `npm start` (Run React Application)
+```cmd
+pnpm run db # (Run database Local Server)
+pnpm start #  (Run React Application)
+```
 
-### 2. `npm run db` (Run Local Server)
-
-# use application
+### use application
 
 Go to http://localhost:3000/ on your navigator to use the application.
