@@ -2,7 +2,7 @@ import { toast } from "react-toastify";
 
 // KEYS TO FETCH DATA
 
-export const FAKE_URL_DATA = "http://localhost:4000";
+export const FAKE_URL_DATA = "http://localhost:7000";
 
 // URL QUERIES VALUES
 export const QUERY_ORDERS_BEING_PROCESSED = "en-cours-de-traintements";
